@@ -1,0 +1,52 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "title";
+    src: url(4/OEBPS/Fonts/title.ttf)
+    }
+@font-face {
+    font-family: "title2";
+    src: url(4/OEBPS/Fonts/title2.ttf)
+    }
+@font-face {
+    font-family: "illus1";
+    src: url(4/OEBPS/Fonts/illus1.ttf)
+    }
+@font-face {
+    font-family: "illus2";
+    src: url(4/OEBPS/Fonts/illus2.otf)
+    }
+@font-face {
+    font-family: "illus3";
+    src: url(4/OEBPS/Fonts/illus3.ttf)
+    }
+@font-face {
+    font-family: "illus4";
+    src: url(4/OEBPS/Fonts/illus4.ttf)
+    }
+@font-face {
+    font-family: "sum1";
+    src: url(4/OEBPS/Fonts/sum1.ttf)
+    }
+@font-face {
+    font-family: "curtain";
+    src: url(4/OEBPS/Fonts/illus1.ttf)
+    }
+@font-face {
+    font-family: "cont1";
+    src: url(4/OEBPS/Fonts/cont1.ttf)
+    }
+@font-face {
+    font-family: "t3";
+    src: url(4/OEBPS/Fonts/t3.otf)
+    }
+@font-face {
+    font-family: "t4";
+    src: url(4/OEBPS/Fonts/t4.ttf)
+    }
+@font-face {
+    font-family: "illus-char";
+    src: url(4/OEBPS/Fonts/illus-char.ttf)
+    }

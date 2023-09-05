@@ -1,0 +1,24 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "zifu";
+    src: local("DK-SYMBOL")
+    }
+@font-face {
+    font-family: "hkyuanti";
+    src: url(1/OEBPS/Fonts/hkyuanti.ttf)
+    }
+@font-face {
+    font-family: "fzcuyuan";
+    src: url(1/OEBPS/Fonts/fzcuyuan.ttf)
+    }
+@font-face {
+    font-family: "qnhgcuhei";
+    src: url(1/OEBPS/Fonts/qnhgcuhei.ttf)
+    }
+@font-face {
+    font-family: "fuhao";
+    src: url(1/OEBPS/Fonts/fuhao.ttf)
+    }

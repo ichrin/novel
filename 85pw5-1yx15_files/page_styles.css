@@ -1,0 +1,28 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "title";
+    src: url(3/OEBPS/Fonts/title.ttf)
+    }
+@font-face {
+    font-family: "sum1";
+    src: url(3/OEBPS/Fonts/sum1.ttf)
+    }
+@font-face {
+    font-family: "intro1";
+    src: url(3/OEBPS/Fonts/intro1.ttf)
+    }
+@font-face {
+    font-family: "intro2";
+    src: url(3/OEBPS/Fonts/intro2.ttf)
+    }
+@font-face {
+    font-family: "cont1";
+    src: url(3/OEBPS/Fonts/cont1.ttf)
+    }
+@font-face {
+    font-family: "illus1";
+    src: url(3/OEBPS/Fonts/illus1.ttf)
+    }

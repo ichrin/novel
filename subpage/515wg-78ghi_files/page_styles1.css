@@ -1,0 +1,52 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "FZWBKS";
+    src: url(3/OEBPS/Fonts/FZBWKS.ttf)
+    }
+@font-face {
+    font-family: "DIN";
+    src: url(3/OEBPS/Fonts/DIN.otf)
+    }
+@font-face {
+    font-family: "FZZYSJ";
+    src: url(3/OEBPS/Fonts/FZZYSJ.ttf)
+    }
+@font-face {
+    font-family: "BODBC";
+    src: url(3/OEBPS/Fonts/BODBC.ttf)
+    }
+@font-face {
+    font-family: "Gothic";
+    src: url(3/OEBPS/Fonts/Gothic.otf)
+    }
+@font-face {
+    font-family: "simhei";
+    src: url(3/OEBPS/Fonts/simhei.ttf)
+    }
+@font-face {
+    font-family: "FZLTDH";
+    src: url(3/OEBPS/Fonts/FZLTDH.ttf)
+    }
+@font-face {
+    font-family: "FZZY";
+    src: url(3/OEBPS/Fonts/FZZY.ttf)
+    }
+@font-face {
+    font-family: "FZY3JW";
+    src: url(3/OEBPS/Fonts/FZY3JW.ttf)
+    }
+@font-face {
+    font-family: "HKPJT";
+    src: url(3/OEBPS/Fonts/HKPJT.otf)
+    }
+@font-face {
+    font-family: "XUHAO";
+    src: url(3/OEBPS/Fonts/XUHAO.ttf)
+    }
+@font-face {
+    font-family: "POP2WP";
+    src: url(3/OEBPS/Fonts/POP2WP.ttf)
+    }

@@ -1,0 +1,56 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "title1";
+    src: url(2/OEBPS/Fonts/title1.ttf)
+    }
+@font-face {
+    font-family: "title2";
+    src: url(2/OEBPS/Fonts/title2.ttf)
+    }
+@font-face {
+    font-family: "rww";
+    src: url(2/OEBPS/Fonts/rww.ttf)
+    }
+@font-face {
+    font-family: "ccw1";
+    src: url(2/OEBPS/Fonts/ccw1.ttf)
+    }
+@font-face {
+    font-family: "ccw2";
+    src: url(2/OEBPS/Fonts/ccw2.ttf)
+    }
+@font-face {
+    font-family: "ccw3";
+    src: url(2/OEBPS/Fonts/ccw3.ttf)
+    }
+@font-face {
+    font-family: "ccw4";
+    src: url(2/OEBPS/Fonts/ccw4.ttf)
+    }
+@font-face {
+    font-family: "ccw5";
+    src: url(2/OEBPS/Fonts/ccw5.ttf)
+    }
+@font-face {
+    font-family: "tocw1";
+    src: url(2/OEBPS/Fonts/tocw1.ttf)
+    }
+@font-face {
+    font-family: "tocw2";
+    src: url(2/OEBPS/Fonts/tocw2.ttf)
+    }
+@font-face {
+    font-family: "ct1";
+    src: url(2/OEBPS/Fonts/ct1.ttf)
+    }
+@font-face {
+    font-family: "ct2";
+    src: url(2/OEBPS/Fonts/ct2.ttf)
+    }
+@font-face {
+    font-family: "num";
+    src: url(2/OEBPS/Fonts/num.ttf)
+    }

@@ -1,0 +1,12 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "HKHBT1";
+    src: url(4/OEBPS/Fonts/HKHBT1.ttf)
+    }
+@font-face {
+    font-family: "seguisym";
+    src: url(4/OEBPS/Fonts/seguisym.ttf)
+    }

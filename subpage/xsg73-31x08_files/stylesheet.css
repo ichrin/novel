@@ -1,0 +1,182 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.calibre2 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre3 {
+    height: auto;
+    width: auto
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em;
+    text-align: center
+    }
+.calibre6 {
+    display: block;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1em
+    }
+.calibre7 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em
+    }
+.calibre8 {
+    text-indent: 2em
+    }
+.calibre9 {
+    line-height: 1.2;
+    text-indent: 2em
+    }
+.calibre10 {
+    display: block;
+    line-height: 1.2
+    }
+.calibre11 {
+    font-weight: bold
+    }
+.calibre12 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.67em;
+    text-indent: 64px
+    }
+.calibre13 {
+    color: #444;
+    font-family: Microsoft Yahei, Hei, Tahoma, SimHei, sans-serif;
+    line-height: 1.2
+    }
+.calibre14 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre15 {
+    color: #444;
+    font-family: Microsoft Yahei, Hei, Tahoma, SimHei, sans-serif
+    }
+.calibre16 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 68, 68);
+    font-family: Tahoma, "Microsoft Yahei", Simsun;
+    font-size: 0.375em;
+    line-height: 21px
+    }
+.calibre17 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 68, 68);
+    font-family: Tahoma, "Microsoft Yahei", Simsun;
+    font-size: 0.75em;
+    line-height: 21px
+    }
+.calibre18 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 68, 68);
+    display: block;
+    font-family: Tahoma, "Microsoft Yahei", Simsun;
+    font-size: 0.75em;
+    line-height: 21px;
+    word-wrap: break-word
+    }
+.calibre19 {
+    color: #444;
+    font-family: Tahoma, Microsoft Yahei, Simsun
+    }
+.calibre20 {
+    font-size: 0.75em;
+    line-height: 21px
+    }
+.calibre21 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 68, 68);
+    font-family: Tahoma, "Microsoft Yahei", Simsun;
+    font-size: 0.66667em;
+    line-height: 21px
+    }
+.calibre22 {
+    color: #444;
+    font-family: Tahoma, Microsoft Yahei, Simsun;
+    line-height: 1.2
+    }
+.calibre23 {
+    font-size: 0.66667em;
+    line-height: 21px
+    }
+.calibre24 {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    text-align: center
+    }
+.calibre25 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0
+    }
+.css {
+    display: block;
+    margin-bottom: 10pt;
+    margin-left: 10pt;
+    margin-right: 10pt;
+    margin-top: 10pt;
+    text-indent: 2em
+    }
